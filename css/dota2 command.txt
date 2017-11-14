@@ -1,0 +1,35 @@
+sv_lan 1 
+Server is a lan server (no heartbeat, no authentication, no non-class C addresses).
+sv_cheats 1
+Note: Commands with "Yes" in "Cheat?" column require sv_cheats 1 to be active before working. Refer it to DOTA 2 Gamepedia lists of commands.
+dota_bot_set_difficulty #
+Option #: 1, 2,3, 4 (UNFAIR)
+dota_start_ai_game 1
+Start the game with AIs
+Tip: You can use dota_force_gamemode #
+You can choose these options:
+image: https://4.bp.blogspot.com/-01Uczq-CXhI/VP2ZMpelezI/AAAAAAAAPJA/jseyHg74hEs/s1600/game%2Bforce%2Bmodes%2B-%2Bdota2.png
+
+
+All Pick = 1
+Captains Mode = 2 
+Random Draft = 3 
+Single Draft = 4 
+All Random = 5 
+INTRO = 6 
+Diretide = 7 
+Reverse Captains Mode = 8 
+Greeviling = 9
+Tutorial = 10
+Mid Only = 11 
+Least Played = 12
+Limited Heroes = 13
+Compendium = 14 
+Captains Draft = 16 
+Balanced Draft = 17 
+Ability Draft = 18 
+All Random Death Match = 20 
+1 VS 1 Solo-Mid = 21 
+All Pick (Ranked) = 22
+
+Read more at http://www.mabzicle.com/2014/12/how-to-play-dota2-in-offline-mode-or-no-internet.html#pOtWPFX4uy3vFC4i.99
